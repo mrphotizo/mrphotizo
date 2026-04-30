@@ -19,7 +19,7 @@ I enjoy building dashboards that highlight trends, uncover opportunities, and su
 - Identifies top-performing products and key sales trends  
 - Built using Power BI  
 
-🔗 [View Project](#)  <!-- replace with your GitHub repo link -->
+🔗 [View Project](#)  <https://github.com/mrphotizo?tab=repositories -->
 
 ---
 
