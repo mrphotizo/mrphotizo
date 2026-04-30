@@ -12,12 +12,7 @@ I enjoy building dashboards that highlight trends, uncover opportunities, and su
 
 ---
 
-## 🚀 Projects
-
-### 📌 Sales Performance Dashboard
-- An interactive dashboard analyzing revenue, products, regions, and customer performance  
-- Identifies top-performing products and key sales trends  
-- Built using Power BI  
+## 🚀 Projects 
 
 🔗 [View Project](#)  <https://github.com/mrphotizo?tab=repositories -->
 
