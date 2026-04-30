@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**mrphotizo/mrphotizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Analytics](https://img.shields.io/badge/Field-Data%20Analytics-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Focus-Building%20Projects-brightgreen?style=for-the-badge)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 About Me
+I am a data analyst focused on transforming raw data into actionable insights using Power BI and Excel.  
+I enjoy building dashboards that highlight trends, uncover opportunities, and support decision-making.
+
+---
+
+## 🚀 Projects
+
+### 📌 Sales Performance Dashboard
+- An interactive dashboard analyzing revenue, products, regions, and customer performance  
+- Identifies top-performing products and key sales trends  
+- Built using Power BI  
+
+🔗 [View Project](#)  <!-- replace with your GitHub repo link -->
+
+---
+
+## 🛠️ Tools & Skills
+- Power BI  
+- Microsoft Excel  
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Design  
+
+---
+
+## 📈 What I'm Working On
+- Building advanced dashboards with deeper business insights  
+- Improving storytelling with data  
+- Expanding portfolio projects  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/mrphotizo
